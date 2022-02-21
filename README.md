@@ -8,7 +8,7 @@
 ## Installation
 Since these are just wallpapers, you can just clone the repository using **git** (or just download the .zip archive using the Code button in the upper right corner); just to be safe, make sure you're in a fitting directory already (Downloads folder, maybe your home directory, etc.)
 
-`git clone https://github.com/Reoesque/eos-flatwallpapers`
+```git clone https://github.com/Reoesque/eos-flatwallpapers```
 
 You will then have a directory in which there are subdirectories for each desktop environment / window manager.
 

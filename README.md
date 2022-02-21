@@ -1,4 +1,4 @@
-# eos-flatwallpapers
+# endeavouros-flatwallpapers
 
 ## Overview
 * A collection of simple EndeavourOS themed wallpapers that I made using Inkscape.

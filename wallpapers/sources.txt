@@ -1,0 +1,31 @@
+Desktop:        Link to source (and creators if findable - I am trying my best, please don't sue me):
+
+GNOME:          https://foundation.gnome.org/logo-and-trademarks/
+> All rights to the Logo used belong to the GNOME Foundation
+
+KDE Plasma:     https://kde.org/stuff/clipart/
+> All rights to the Logo used belong to KDE
+
+LXDE:           https://wiki.lxde.org/en/File:Lxde-logo.png
+> All rights to the Logo used belong to Mario Behling
+
+Solus:          https://solus-project.com / https://github.com/solus-project
+                https://upload.wikimedia.org/wikipedia/commons/1/17/Budgie.svg
+> All rights to the Logo used belong the Solus Project and NotRepublicTV for the SVG recreation on wikimedia
+
+Cinnamon:       https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg / https://developer.linuxmint.com
+> All rights to the Logo used belong to the Developers / Designers from the LinuxMint team
+
+i3:             https://github.com/i3/i3/blob/next/logo.svg
+                Creator(s): Denis Steckelmacher (steckdenis); yellowiscool; farvardin
+> All rights to the Logo used belong to the creator(s) listed above
+
+LXQT:           https://github.com/lxqt/lxqt-common-deprecated/blob/master/graphics/helix_lxqt.svg
+                Creator: Caig
+> All rights to the Logo used belong to Caig and the LXQT team
+
+Sway:           https://swaywm.org / (I can't seem to find a proper link)
+> All rights to the Logo used belong to the Sway team
+
+XFCE:           https://xfce.org/download (can be found inside a tarball under "Artwork")
+> All rights to the Logo used belong to the XFCE team
